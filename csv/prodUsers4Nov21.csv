@@ -1,0 +1,71 @@
+﻿Id,Role,Name,Email,Phone,External,Created at,Updated at
+114,agent_admin,Chandra Dwi Putra,c4nzzz@gmail.com,085716451213,BVNvKJrvvjQ9NZT3l7I4u0p9xi72,2021-11-02 06:30:54 UTC,2021-11-02 06:30:54 UTC
+112,agent,Bayu Wicaksono,edu@loekito.co.id,08155063080,LRPhVDxOIHfIp2mCj2HKgrZYkav1,2021-11-02 05:57:19 UTC,2021-11-02 05:57:19 UTC
+111,agent_admin,Yuli Istana,yuli@loekito.id,08123316820,27ZKtz3w1Se6PB6CI2jr6KHljK33,2021-11-02 05:56:27 UTC,2021-11-02 05:56:27 UTC
+110,agent,Novita Andianto,tour_intl@haryonotours.com,082140056077,2qb4O8eJToUXWYcsH4s0wWfjCPy2,2021-11-02 05:54:46 UTC,2021-11-02 05:54:46 UTC
+109,agent_admin,Pungki Joeniastuti,pungki@haryonotours.com,081559915370,gy5OfDOgXkfluuavUsTjYqvHu7R2,2021-11-02 05:53:45 UTC,2021-11-02 05:53:45 UTC
+108,agent_admin,Baroroh Lely Indrawati,lely@edlink.or.id,085105342929,EcU4L9OEXwfianoZpE2VcseoEVf1,2021-11-01 07:39:52 UTC,2021-11-01 07:39:52 UTC
+107,agent,Rendiani Wahyu Widyaningrum,rendi@edlink.or.id,085105342929,4cbdJLIaTeM2uAIydTkEOWKEP532,2021-11-01 07:38:38 UTC,2021-11-01 07:38:38 UTC
+106,agent_admin,Maria Caroline,txmalang99@gmail.com,081334051199,FEHBLP2Z0DhQXvbhEBKYb1HZaK73,2021-10-29 04:19:24 UTC,2021-10-29 04:19:24 UTC
+105,agent_admin,Victoria Amanda ,tour-grsub@goldenrama.com,081216038478,lGw41kNKXufkmnDkj2ZNwE8XIwX2,2021-10-28 07:48:26 UTC,2021-10-28 07:48:26 UTC
+104,agent_admin,Silvi Shara Syafira,osl.sipi@gmail.com,081334241804,58QrLGoLbKWDmMVkkVYf9IpzbAW2,2021-10-28 06:21:49 UTC,2021-10-28 06:21:49 UTC
+103,agent,Saiful Rahman,ticketing@celindotour.com,081331004077,MK4cgf7ZOcZ1PcED7TylApBafd42,2021-10-28 05:02:34 UTC,2021-10-28 05:02:34 UTC
+102,agent,Arief Maulana,halo@loekito.co.id,082142944441,qsifBAj9gkQwtWoYLKSZfxY6Ikc2,2021-10-27 07:54:49 UTC,2021-10-27 07:54:49 UTC
+101,agent_admin,Wiwied Tonty Emanuel,wiwied@loekito.id,08980690938,ODlDWX8H5PcMCgfs7EsZpXFNjhp1,2021-10-27 07:49:00 UTC,2021-10-27 07:49:00 UTC
+100,agent_admin,HS Test ,qwertyhstesting@gmail.com,1234578,Osze9xqackelgrovD9w97lVLItb2,2021-10-24 03:55:13 UTC,2021-10-24 03:55:13 UTC
+98,agent_admin,lindiliansyah,bali@super-star.com.au,0816509589,R70Qz5rw1pRBae7aTZP55pz4cIB2,2021-10-21 08:39:14 UTC,2021-10-21 08:39:14 UTC
+96,agent,Rafika,medan@myeducationrepublic.com,+62 821-3333-7676,9STRfuSMSDYIvurmM0Xsm1Kzdv53,2021-10-21 05:57:38 UTC,2021-10-21 05:57:38 UTC
+95,agent_admin,Jacob Suyanto,jacob.tan@myeducationrepublic.com,+62 821-3333-7676,Kp5qLF0W8WU6F3UxENiDPjR1rit2,2021-10-21 05:56:47 UTC,2021-10-21 05:56:47 UTC
+94,agent,Regina,bali@myeducationrepublic.com,+62 819-4675-8555,GmeVikHTXwS5U92Altx4noKNPhm1,2021-10-21 03:49:53 UTC,2021-10-21 03:49:53 UTC
+93,agent_admin,Harjanti Halim,harjantihalim88@gmail.com,0402417440,CwiFteqER6dQ81fctxcX2E8Gkjt1,2021-10-17 03:58:46 UTC,2021-10-17 03:58:46 UTC
+91,vendor_admin,Soesad Tedja,info@alltransindocargo.com.au,0411 811 461,MvCfSeURJlgvBgnWIeA0kkXiSKi2,2021-10-15 21:35:57 UTC,2021-10-15 21:35:57 UTC
+89,agent,Wulan SpecTa Education,wulan@spectaeducation.com,0819668278,owhv95yFNrVjCBwrqTVvVOb7QQc2,2021-10-15 07:46:21 UTC,2021-10-15 07:46:21 UTC
+88,agent_admin,Eline,m.ops@rodextravel.tours,082131387902,qXZb8tjf7xRpSoWeWx42Ov3bbEJ2,2021-10-15 07:06:24 UTC,2021-10-15 07:06:24 UTC
+87,agent_admin,Adam Abiyu Pattilasa,surabaya@super-star.com.au,0816509562,VnZCTMLtSbetRsONBtoyVmtsTdM2,2021-10-15 06:51:38 UTC,2021-10-15 06:51:38 UTC
+85,agent,Jovan ,partnership@koskosan.com.au,+62 811-6072-321,josvOcGUw3NxkGBdGNcW9Bikwi32,2021-10-15 02:55:44 UTC,2021-10-15 02:55:44 UTC
+84,agent,Test Account,growth+test+staf@relomate.co,04587587843,7teWJR1uxKglXK1Rzlhuq7BaRXI2,2021-10-12 08:23:30 UTC,2021-10-23 06:57:29 UTC
+83,agent_admin,Amy Rosita Hartanto,amyhartanto@gate-tour.com,+6281513317556,LJf81AIh4vfgvUaSpTToASpxCDr2,2021-10-12 07:34:07 UTC,2021-10-12 07:34:07 UTC
+81,agent_admin,Yudo Baskoro,y.baskoro@monoapartments.com,0422155195,qXOuuE8xP3O49hVHnNftQy0pqPA3,2021-10-05 20:56:13 UTC,2021-10-05 20:56:13 UTC
+77,agent,Muliono Latief,latiefmuliono@yahoo.com,+62816532622,HPIIDcDdqqWMpWXOyAoV20BHR0I3,2021-09-30 04:15:00 UTC,2021-09-30 04:15:00 UTC
+76,agent,Heri Darsono,lampung@central-student.com,+6285219377777,eW46wIgglvcRVIiC7pupOgexw4G3,2021-09-27 03:10:04 UTC,2021-09-27 03:10:04 UTC
+75,agent,Christina Lola,studyoverseas.id@gmail.com,+6285716542515,u1cxsfL4eXa8vdWPf7KJHCZXhs23,2021-09-23 05:41:26 UTC,2021-09-23 05:41:26 UTC
+74,agent_admin,Edmond Satrio,edmond.satrio@gmail.com,+62 815 84044078,uCkZGf4F2APKdXgBK6wYo4hhGYp1,2021-09-21 01:34:54 UTC,2021-09-21 01:34:54 UTC
+72,agent_admin,Jeffrey Ansen,jeffrey@coriate.com,+628111666090,pCTNbrP83efAiiTFJLPmhXJYxVE3,2021-09-20 06:06:37 UTC,2021-09-20 06:06:37 UTC
+70,agent,Marvelia,marvelia@super-star.com.au,+62 816-509-563,d9OSPHFaHqXnzUCKjAvIDiGS8i72,2021-09-20 06:02:33 UTC,2021-09-20 06:02:33 UTC
+69,agent,Agustin Setyanti Putri,agustina@super-star.com.au,088901781835,mTotog1C96cNTJsArMe1erKfcOA3,2021-09-20 06:01:55 UTC,2021-09-20 06:01:55 UTC
+68,agent,Shinta Graciana,shinta@super-star.com.au,+62 822-1021-9652,gFlmqgobTVYJbbUb79IFhOn8JfF2,2021-09-20 05:59:43 UTC,2021-09-20 05:59:43 UTC
+67,agent,Nanda,nanda@super-star.com.au,+62 816-509-563,oCsNoOXmI9fAIsu2vJMuR39M4aI2,2021-09-20 05:59:05 UTC,2021-09-20 05:59:05 UTC
+66,agent,Messi Pambayuningsih,messi@super-star.com.au,081288275160,4vcpyP5d0fXqyz37ZVMsQv5AqI63,2021-09-20 05:58:27 UTC,2021-09-20 05:58:27 UTC
+65,agent,Disma Yulynda,disma@super-star.com.au,+62 815-5428-0119,ukAVfZYBM6Vr4u3RwINjWHIJQ1k1,2021-09-20 05:57:04 UTC,2021-09-20 05:57:04 UTC
+64,agent,Adam Pattilasa,adam.pattilasa@gmail.com,+62 816-509-563,m4HklvOzonhQOFtURzf0wy8h5Nh1,2021-09-20 05:56:20 UTC,2021-09-20 05:56:20 UTC
+63,agent,Mitchella Anasthasya,mitchellanasthasya@gmail.com,087765559911,xi3oYOneXRYG3TZWJZxBxtBDM9c2,2021-09-18 06:35:13 UTC,2021-09-18 06:35:13 UTC
+62,agent_admin,Victory Consultancy Pty Ltd,nana@victory-consultancy.com,0415822829,ynqI200bcwMsizntEDNF5Ywc4cs2,2021-09-18 00:51:35 UTC,2021-09-18 00:51:35 UTC
+60,agent_admin,Hope Education,hope_2000@cbn.net.id,622165308361,8xPj7p3kHoRrDV7xG7yJ9FjpV8P2,2021-09-17 03:58:53 UTC,2021-09-17 03:58:53 UTC
+58,agent_admin,Fani Wahyu Zalika,fani.zalika@fortrust.com,6281261187847,QEaMMSRAKZNIrWTizNJkCGlxw6J3,2021-09-15 03:53:21 UTC,2021-09-15 03:53:21 UTC
+56,agent,Sriana,go.jakarta@globaloneworld.com,+6285102099342,12tX9LW0yqTcmSUc2TGDji3k0KB3,2021-09-14 07:42:28 UTC,2021-09-14 07:42:28 UTC
+55,agent,Laurentia Kartika,jogja3@ican-education.com,+6281327486724,dHsx8QJ5esTeFqTy67GtMfcTX333,2021-09-13 08:06:41 UTC,2021-09-13 08:06:41 UTC
+54,agent,Cathylia Veronica,jogja2@ican-education.com,+6281361955061,CtbDAJM9TZPZ6Z92AY5hLfEmcNI2,2021-09-13 08:06:15 UTC,2021-09-13 08:06:15 UTC
+53,agent_admin,Wahyudi,wahyudi@fortrust.com,+6287777784932,HyjcTKOgB2Ojk2mOe7pIjJujVJ23,2021-09-13 08:05:33 UTC,2021-09-13 08:05:33 UTC
+52,agent,Test Growth Staff,tech+growth+staff@relomate.co,+6284737473,BDjqzqfBcHhXBlLs5JE4zgOzZun1,2021-09-13 03:08:13 UTC,2021-09-13 03:08:13 UTC
+51,agent_admin,Natasha Dhia Antoni,natashadhiaantoni@gmail.com,0431036159,5O7p2rGlAUfFVhA8ZSGo9cJhM2a2,2021-09-08 03:50:36 UTC,2021-09-13 03:14:45 UTC
+49,vendor_admin,Bill Lee,leeb8@bhfinancials.com,0402369585,E7x0LEghfrZKaZQlXGIFNazp1H22,2021-09-07 01:51:23 UTC,2021-09-13 03:15:43 UTC
+47,agent_admin,Yapit Japoetra,yapit@tpg.com.au,0430588899,OHJv3V8QlXY89vqM6x4fwSVexB83,2021-09-07 00:55:20 UTC,2021-09-13 03:14:45 UTC
+45,agent_admin,Yudo Baskoro,Yudo.private@gmail.com,0422155195,X8VWLOntyKXpJsGxBoJtujhLKHF3,2021-09-06 03:30:17 UTC,2021-09-13 03:14:45 UTC
+43,vendor_admin,Arise Relomate Admin,booking+arise@relomate.co,+61 413 813 047,KcU7ZY2bKlNiTj3DQEsDMO6TGWd2,2021-09-06 03:27:02 UTC,2021-09-13 03:15:43 UTC
+41,agent_admin,Indriati Sosrokusumo,indri.sosrokusumo@gmail.com,0430522800,dBizxkWNwkdytqQpACBCoh38OVH2,2021-09-04 04:46:59 UTC,2021-09-13 03:14:45 UTC
+39,vendor_admin,Medwin,Medwin.wahyadiyatmika@gmail.com,08552862222,p4byIz10W5Q4MdZw6dwNQTO5TDn2,2021-09-03 10:50:17 UTC,2021-09-13 03:15:43 UTC
+37,vendor_admin,Uniair Relomate Admin,booking+uniair@relomate.co,+61 413 813 047,M1jLuSAI6AQZgBGhOgbn0C7jbWf2,2021-09-03 05:45:31 UTC,2021-09-13 03:15:43 UTC
+35,vendor_admin,Kleenr Kosplus Admin,booking+kleenr@relomate.co,+61 413 813 047,m3NJ0rvg3EfIMV6WsJHgg0uc1yk1,2021-09-02 10:41:50 UTC,2021-09-13 03:15:43 UTC
+33,vendor_admin,Mono Kosplus Admin,booking+mono@relomate.co,+61 413 813 047,hWhKTlU6gRRF2zDkIvZHEDzP87C3,2021-09-02 10:29:04 UTC,2021-09-13 03:15:43 UTC
+31,vendor_admin,Suneo Kosplus Admin,booking+suneo@relomate.co,+61 413 813 047,meBKt8EXUWWBNt33XTI1WydRAWC2,2021-09-02 10:24:22 UTC,2021-09-13 03:15:43 UTC
+29,vendor_admin,Admin Moving Kosplus,booking+moving+kosplus@relomate.co,+61 413 813 047 ,n19kVtBdISNystiAmRNbyIXdlNj2,2021-09-02 08:42:21 UTC,2021-09-13 03:15:43 UTC
+27,agent_admin,Imam,imam@alfalink.net,81803110003,v3apSaBFO1czMutns58wSBWZqDf1,2021-09-02 03:38:10 UTC,2021-09-13 03:14:45 UTC
+25,agent_admin,Cylvi,cylvi09@gmail.com,+628161965707,B6lTXu04MzRsQuaaS9zY434knVZ2,2021-09-01 14:41:35 UTC,2021-09-13 03:14:45 UTC
+23,agent_admin,Natalia Soehono,natalia@loekito.id,+62341568133,sL4szd4OSRU6MdcbsGJZwKBFxU03,2021-09-01 14:35:16 UTC,2021-09-13 03:14:45 UTC
+21,agent_admin,Erlin Meliani,erlin.meliani@gmail.com,+6282121332815,7O6dVRKY8EPlmEm3QIPMF58mSxx2,2021-09-01 06:08:41 UTC,2021-09-13 03:14:45 UTC
+19,agent_admin,Leonardez,LEO.CENTRALMEDAN@GMAIL.COM,6282276091989,FadtSUph4TYqeqJrc6ORxeSQXYq1,2021-09-01 04:34:14 UTC,2021-09-13 03:14:45 UTC
+17,agent_admin,Rifaldo Imanuel,rifaldo.marbun@koskosan.com.au,+6285722334416,5Y2gOuMAoPWnPnpAcYjXDcGvrgx2,2021-09-01 02:29:14 UTC,2021-09-13 02:57:41 UTC
+15,vendor_admin,Kosplus Staff Suneo,parcel+kosplus@relomate.co,+61434782867,08tS2JapTIceoYlGLyS9fnAit792,2021-08-26 04:49:50 UTC,2021-09-13 03:15:43 UTC
+14,vendor_admin,Kosplus Staff Mono,Storage+KOSPLUS@relomate.co,+61434782867,AmoEj27LpCaBCLeKPAZVZmiktlv2,2021-08-26 04:13:05 UTC,2021-09-13 03:15:43 UTC
+13,agent_admin,Growth Staff,growth+ops@relomate.co,+614476476,f29Il6S6r8glNfEQ3k2hZ4oBeep1,2021-08-25 06:25:50 UTC,2021-09-13 02:58:01 UTC
+11,agent_admin,Johan Setiawan,johan@super-star.com.au,+61433662002,1Ch2PqSKENaNpzf8x7saKA8MdBP2,2021-08-25 04:20:24 UTC,2021-09-13 03:14:45 UTC
